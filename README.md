@@ -1,4 +1,7 @@
 # gitlab-project-export
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=petrugiurca_gitlab-project-export&metric=alert_status&token=394caa49ca4c7c100d2374313ff5c0b3b3efdedb)](https://sonarcloud.io/summary/new_code?id=petrugiurca_gitlab-project-export)
+
 Simple python project for exporting gitlab projects with Export Project feature in GitLab API.
 
 Primarily useful for remote backup of projects in GitLab.com to private storage server.
