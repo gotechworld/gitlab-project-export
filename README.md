@@ -1,6 +1,6 @@
-# gitlab-project-export
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=petrugiurca_gitlab-project-export)
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=petrugiurca_gitlab-project-export&metric=alert_status&token=394caa49ca4c7c100d2374313ff5c0b3b3efdedb)](https://sonarcloud.io/summary/new_code?id=petrugiurca_gitlab-project-export)
+# gitlab-project-export
 
 Simple python project for exporting gitlab projects with Export Project feature in GitLab API.
 
